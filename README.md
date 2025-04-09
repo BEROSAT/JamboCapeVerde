@@ -10,10 +10,10 @@
   },
   "1":{
   "id": "2",
-  "name": "TVI AFRICA",
+  "name": "TV CIDADE",
   "description": "1502",
   "live_url": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODM1Nzg5MzBf/tcsm.png",
+  "thumbnail": "https://od.lk/s/NDZfODA0NjI2NzZf/CIDADE.jpg",
   "categorie": "SPORTS"
   }
 }
